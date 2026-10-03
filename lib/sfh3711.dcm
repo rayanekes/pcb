@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SFH3711
+D Silicon NPN phototransistor, SMD-6
+K NPN phototransistor
+F https://dammedia.osram.info/media/resource/hires/osram-dam-2495980/SFH%203201.pdf
+$ENDCMP
+#
+#End Doc Library
